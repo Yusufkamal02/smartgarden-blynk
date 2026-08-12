@@ -4,7 +4,7 @@
  * Input  : DHT11, DS1820, SOIL MOISTURE
  * Output : BLYNK LCD
  * ESP32 Smart Garden 
- * www.ardutech.com
+ * aura-sinergi.id
  ****************************************/
 #define BLYNK_TEMPLATE_ID "TMPL6wlsAtCz7"
 #define BLYNK_TEMPLATE_NAME "Smart Garden"
